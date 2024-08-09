@@ -25,12 +25,6 @@
   <img src="https://img.shields.io/badge/MIRO-282C34?logo=MIRO&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
   <img src="https://img.shields.io/badge/LUCIDCHART-282C34?logo=LUCIDCHART&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
   <img src="https://img.shields.io/badge/MOODLE-282C34?logo=MOODLE&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
-      <img src="https://img.shields.io/badge/MOODLE-282C34?logo=MOODLE&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
-      <img src="https://img.shields.io/badge/MOODLE-282C34?logo=MOODLE&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
-      <img src="https://img.shields.io/badge/MOODLE-282C34?logo=MOODLE&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
-      <img src="https://img.shields.io/badge/MOODLE-282C34?logo=MOODLE&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
-      <img src="https://img.shields.io/badge/MOODLE-282C34?logo=MOODLE&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
-      <img src="https://img.shields.io/badge/MOODLE-282C34?logo=MOODLE&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
   <hr>
   </div>
 
