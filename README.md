@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/SWAGGER-282C34?logo=swagger&logoColor=3178C6" alt="REACT logo" title="SWAGGER" height="25" />
   <img src="https://img.shields.io/badge/DOCKER-282C34?logo=docker&logoColor=3178C6" alt="DOCKER logo" title="DOCKER" height="25" />
   <img src="https://img.shields.io/badge/COMPOSER-282C34?logo=composer&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
+  <img src="https://img.shields.io/badge/SLACK-282C34?logo=SLACK&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
   <hr>
   </div>
 
