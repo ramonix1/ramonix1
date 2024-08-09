@@ -18,6 +18,12 @@
   <img src="https://img.shields.io/badge/DOCKER-282C34?logo=docker&logoColor=3178C6" alt="DOCKER logo" title="DOCKER" height="25" />
   <img src="https://img.shields.io/badge/COMPOSER-282C34?logo=composer&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
   <img src="https://img.shields.io/badge/SLACK-282C34?logo=SLACK&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
+  <img src="https://img.shields.io/badge/REDMINE-282C34?logo=REDMINE&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
+  <img src="https://img.shields.io/badge/PIPEFY-282C34?logo=PIPEFY&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
+     <img src="https://img.shields.io/badge/SLACK-282C34?logo=SLACK&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
+     <img src="https://img.shields.io/badge/SLACK-282C34?logo=SLACK&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
+     <img src="https://img.shields.io/badge/SLACK-282C34?logo=SLACK&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
+     <img src="https://img.shields.io/badge/SLACK-282C34?logo=SLACK&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
   <hr>
   </div>
 
