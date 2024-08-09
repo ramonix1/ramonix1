@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/SLACK-282C34?logo=SLACK&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
   <img src="https://img.shields.io/badge/REDMINE-282C34?logo=REDMINE&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
   <img src="https://img.shields.io/badge/PIPEFY-282C34?logo=PIPEFY&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
-     <img src="https://img.shields.io/badge/SLACK-282C34?logo=SLACK&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
-     <img src="https://img.shields.io/badge/SLACK-282C34?logo=SLACK&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
+  <img src="https://img.shields.io/badge/HEFLO-282C34?logo=HEFLO&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
+  <img src="https://img.shields.io/badge/CUCUMBER-282C34?logo=CUCUMBER&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
      <img src="https://img.shields.io/badge/SLACK-282C34?logo=SLACK&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
      <img src="https://img.shields.io/badge/SLACK-282C34?logo=SLACK&logoColor=3178C6" alt="COMPOSE logo" title="COMPOSE" height="25" />
   <hr>
